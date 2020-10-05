@@ -2,7 +2,9 @@
 this is a python program which uses tensorflow and visualises the image and predicting the thing correctly
 we use cifar dataset from the tensorflow.....with the help of cnn
 
+The CIFAR10 dataset contains 60,000 color images in 10 classes, with 6,000 images in each class. The dataset is divided into 50,000 training images and 10,000 testing images. The classes are mutually exclusive and there is no overlap between them.
 check this link to view the project:
+
 
 https://colab.research.google.com/drive/10xXd0wNrvpdJbWfkwApEDiLK-JN7BDHV?usp=sharing
 
